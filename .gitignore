@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude
+.claude/
+
+# local test scripts
+check-*.js
+find-actions.js
+test-*.js
+진행상황
